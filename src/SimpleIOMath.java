@@ -73,6 +73,7 @@ public class SimpleIOMath { // to get everything needed and to store/return vari
         SimpleIOMath app = new SimpleIOMath();
         app.promptUser();
         app.printInfo();
+        System.out.println("My favorite AP Comp Sci teacher is Ani.");
 
     }
 }
